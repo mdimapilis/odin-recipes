@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(243, 234, 215);
+    text-align: center;
+    color: rgb(149, 84, 50);
+}
+
+h1 {
+    color: rgb(213, 93, 29);
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+}
+
+a {
+    color: rgb(175, 92, 69);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(117, 60, 44);
+    font-size: 20px;
+}
+
+.description,
+.ingredients,
+.ingredients li,
+.steps,
+.steps li {
+    text-align: left;
+}
